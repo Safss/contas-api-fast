@@ -1,0 +1,10 @@
+fastapi==0.111.1
+requests==2.32.3
+SQLAlchemy==2.0.31
+psycopg2==2.9.9
+
+#TESTS
+pytest==8.3.1
+
+# TOOLS
+alembic==1.13.2
